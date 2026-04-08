@@ -1,0 +1,6 @@
+interface:
+  display_name: "Contakt Project Setup"
+  product_surface:
+    - "chatgpt"
+policy:
+  allow_implicit_invocation: true
