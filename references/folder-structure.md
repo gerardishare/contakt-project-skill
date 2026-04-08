@@ -1,6 +1,6 @@
-# Default SharePoint project structure
+# Standaard SharePoint projectstructuur
 
-## Tree
+## Boomstructuur
 
 ```text
 /[client] - [project]
@@ -11,54 +11,54 @@
   /04_Admin
 ```
 
-## Folder intent
+## Doel per map
 
 ### 00_Projectcontext
-Use for stable project instructions that should govern all chats and outputs.
-Examples:
-- project brief
-- customer profile
-- scope and exclusions
-- definitions and terminology
-- quality criteria
-- writing conventions
+Gebruik voor vaste projectinstructies die alle chats en outputs sturen.
+Voorbeelden:
+- projectbrief
+- klantprofiel
+- scope en uitsluitingen
+- definities en terminologie
+- kwaliteitscriteria
+- schrijfrichtlijnen
 
 ### 01_Bronbestanden
-Treat as the primary knowledge base.
-Examples:
-- customer documents
-- interview notes
-- policies
-- source reports
-- research inputs
+Beschouw dit als de primaire kennisbasis (bron van waarheid voor inhoud).
+Voorbeelden:
+- klantdocumenten
+- interviewnotities
+- beleidstukken
+- bronrapporten
+- onderzoeksinput
 
 ### 02_Werkbestanden
-Use for work in progress.
-Examples:
-- drafts
+Gebruik voor werk-in-uitvoering.
+Voorbeelden:
+- concepten
 - analyses
-- scratch notes
-- interim deliverables
-- comparison documents
+- werkaantekeningen
+- tussenversies
+- vergelijkingsdocumenten
 
 ### 03_Definitief
-Use for approved outcomes.
-Examples:
-- final reports
-- approved presentations
-- signed-off recommendations
+Gebruik voor goedgekeurde eindresultaten.
+Voorbeelden:
+- eindrapporten
+- goedgekeurde presentaties
+- afgestemde/afgetekende aanbevelingen
 
 ### 04_Admin
-Use for project operations, not substantive analysis by default.
-Examples:
-- planning sheets
-- budgets
-- administration
-- internal logistics
+Gebruik voor projectvoering; standaard niet leidend voor inhoudelijke analyse.
+Voorbeelden:
+- planningen
+- budgetten
+- administratie
+- interne logistiek
 
-## Interpretation rule
+## Interpretatieregel (bronprioriteit)
 
-When answering project questions, prefer sources in this order unless the user instructs otherwise:
+Beantwoord projectvragen bij voorkeur op basis van bronnen in deze volgorde (tenzij de gebruiker anders aangeeft):
 1. 00_Projectcontext
 2. 01_Bronbestanden
 3. 03_Definitief

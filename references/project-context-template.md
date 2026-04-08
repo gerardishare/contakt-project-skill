@@ -1,6 +1,6 @@
-# Project context template
+# Projectcontext-template
 
-Use this scaffold and adapt it to the user's answers.
+Gebruik dit sjabloon en pas het aan op de antwoorden van de gebruiker.
 
 ```text
 PROJECTCONTEXT

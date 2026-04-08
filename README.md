@@ -2,7 +2,7 @@
 
 ## Projectbeschrijving
 
-Deze repository bevat een **ChatGPT-vaardigheid (Skill)**: `sharepoint-project-setup`. De vaardigheid helpt ChatGPT bij het opzetten van een project-werkruimte waarbij **SharePoint** de bronlocatie is en de **ChatGPT Project context** de vaste werkinstructie vormt.
+Deze repository bevat een **ChatGPT-vaardigheid (Skill)**: `contakt-project-setup`. De vaardigheid helpt ChatGPT bij het opzetten van een project-werkruimte waarbij **SharePoint** de bronlocatie is en de **ChatGPT Project context** de vaste werkinstructie vormt.
 
 ## Bestandstructuur
 
@@ -14,5 +14,5 @@ Deze repository bevat een **ChatGPT-vaardigheid (Skill)**: `sharepoint-project-s
 
 1. Maak een zip van de repository (met minimaal `SKILL.md` en `references/`).
 2. Upload de zip in ChatGPT bij **Vaardigheden / Skills**.
-3. Gebruik de vaardigheid door ChatGPT te laten draaien met: `sharepoint-project-setup`.
+3. Gebruik de vaardigheid door ChatGPT te laten draaien met: `contakt-project-setup`.
 
