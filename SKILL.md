@@ -250,7 +250,7 @@ Schrijf een nette projectcontext die **altijd als document in SharePoint** wordt
 
 Voeg altijd een sectie toe die uitlegt hoe ChatGPT de SharePoint mappenstructuur gebruikt. Dit vereist **geen** user input en voeg je automatisch toe.
 
-De projectcontext moet **nauwkeurig, toetsbaar en consultancy-waardig** zijn. Dat betekent:
+De projectcontext moet **nauwkeurig, toetsbaar en op consultancyniveau** zijn. Dat betekent:
 - geen vage formuleringen (vermijd “waar nodig”, “waarschijnlijk”, “ongeveer” zonder duiding)
 - expliciete afbakening (wat wel/niet in scope is, met concrete grenzen)
 - onderscheid tussen feiten, aannames, interpretaties en adviezen
